@@ -1,0 +1,8 @@
+.env
+venv
+.idea
+.sonarlint
+.vscode
+*.iml
+*.pyc
+__pycache__
